@@ -97,7 +97,7 @@ const HeroSection: React.FC = () => {
         <div className="relative w-72 md:w-80 h-80 flex items-center mx-auto">
           <div className="absolute pointer-events-none scale-90 xs:scale-95 mx-auto">
             <Image
-              src={rasel}
+              src={satNaing}
               width={1177}
               height={1374}
               priority
