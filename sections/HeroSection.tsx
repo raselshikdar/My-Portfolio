@@ -97,7 +97,7 @@ const HeroSection: React.FC = () => {
         <div className="relative w-72 md:w-80 h-80 flex items-center mx-auto">
           <div className="absolute pointer-events-none scale-90 xs:scale-95 mx-auto">
             <Image
-              src={satNaing}
+              src={Rasel Shikdar}
               width={1177}
               height={1374}
               priority
@@ -124,7 +124,7 @@ const HeroSection: React.FC = () => {
         </span>
         <div className="overflow-hidden">
           <h1 className="text-animation text-4xl md:text-5xl lg:text-7xl md:my-2 font-semibold my-1">
-            Sat Naing
+            Rasel Shikdar
           </h1>
         </div>
         <div className="overflow-hidden">
